@@ -7,8 +7,8 @@
 Hello! I'm Nagendra Adisesha, a Software Automation Test Engineer with over 6 years of experience in Web UI automation, API automation, and RPA. I specialize in building robust and scalable test automation frameworks.
 ## 🔧 Skills
 
-- **Programming Languages:** Python, Java, SQL
-- **Automation Tools:** Selenium, Playwright, Rest Assured, Tricentis Tosca, Automation Anywhere, Pytest, TestNG
+- **Programming Languages:** Python, Javascript, Java, SQL
+- **Automation Tools:** Selenium, Playwright, Cypress, Rest Assured, Tricentis Tosca, Automation Anywhere, Pytest, TestNG
 - **CI/CD and Utilities:** Postman, JMeter, Jenkins, Git
 - **Test Management:** Jira, Confluence, Testrail, Practitest
 - **Debugging Tools:** Elastic Search, Kafka, Wireshark
